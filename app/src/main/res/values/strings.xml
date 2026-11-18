@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Opal:BlockSolver</string>
+    <string name="accessibility_description">In Auto mode, performs the moves found by the solver by dragging on the screen. It only watches which app is in front and does not read screen content.</string>
+</resources>
